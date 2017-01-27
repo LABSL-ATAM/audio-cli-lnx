@@ -1,0 +1,5 @@
+Linux alarm 4.9.6-1-ARCH #1 SMP Thu Jan 26 19:34:57 MST 2017 aarch64 GNU/Linux
+**** List of CAPTURE Hardware Devices ****
+card 0: DA2USB48000HzTe [DA2USB-48000Hz (Test)], device 0: USB Audio [USB Audio]
+  Subdevices: 1/1
+  Subdevice #0: subdevice #0
